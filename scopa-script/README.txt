@@ -1,7 +1,8 @@
-=== Plugin Name ===
+=== Scopa Script ===
 Contributors: scopaanalytics
 Tags: tags, scopa, analytics, affiliate links
 Requires at least: 3.0
+Requires PHP: 7.2
 Tested up to: 5.9
 Stable tag: 1.0.0
 License: GPLv3
