@@ -9,9 +9,8 @@
  * @copyright 2022, Scopa Analytics
  *
  * @wordpress-plugin
- * Plugin Name:       Scopa Script
- * Plugin URI:        https://www.scopaanalytics.com/
- * Description:       This plugin places the necessary code snippets to integrate Scopa Analytics tags into your wordpress website
+ * Plugin Name:       Scopa Product Tagging for Websites | Make Your Images Shoppable with Product Tags
+ * Description:       This plugin places the necessary code snippets to integrate Scopa Analytics tags into your Wordpress website
  * Version:           1.0.0
  * Author:            Scopa Analytics
  * Author URI:        https://www.scopaanalytics.com/

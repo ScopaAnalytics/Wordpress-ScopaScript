@@ -1,6 +1,6 @@
 === Scopa Script ===
 Contributors: scopaanalytics
-Tags: tags, scopa, analytics, affiliate links
+Tags: tags, scopa, analytics, affiliate links, saas
 Requires at least: 3.0
 Requires PHP: 7.2
 Tested up to: 5.9
@@ -8,9 +8,17 @@ Stable tag: 1.0.0
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.txt
 
-This plugin places the necessary code snippets to integrate Scopa Analytics tags into your wordpress website.
+This plugin places the necessary code snippets to integrate Scopa Analytics tags into your Wordpress website.
 
 == Description ==
+
+Scopa lets you add shoppable product tagging to your website content.
+
+>Scopa is a SaaS app. You will need to create an [account](https://www.scopaanalytics.com/) to use our shoppable product tagging and start  optimizing your content. 
+
+This plugin places the necessary code snippets to integrate Scopa Analytics tags into your Wordpress website.
+
+For full term of use on the Scopa Tagging Platform, please read our services’ [terms and conditions](https://app.scopaanalytics.com/terms).
 
 == Installation ==
 
