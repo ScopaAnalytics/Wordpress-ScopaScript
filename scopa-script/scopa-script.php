@@ -1,6 +1,6 @@
 <?php
 /**
- * Scopa Script
+ * Scopa Shoppable Product Tagging
  *
  * @package   Scopa_Script
  * @author    Scopa Analytics <info@scopaanalytics.com>
@@ -9,7 +9,7 @@
  * @copyright 2022, Scopa Analytics
  *
  * @wordpress-plugin
- * Plugin Name:       Scopa Product Tagging for Websites | Make Your Images Shoppable with Product Tags
+ * Plugin Name:       Scopa Shoppable Product Tagging
  * Description:       This plugin places the necessary code snippets to integrate Scopa Analytics tags into your Wordpress website
  * Version:           1.0.0
  * Author:            Scopa Analytics
